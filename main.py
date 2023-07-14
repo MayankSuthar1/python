@@ -1,7 +1,5 @@
-
-def hello (index):
-    return index-2
-
-
-hello(10)
-print (hello())
+a = "mayank"
+i=5
+while(i>=0  ):
+    print(a[i])
+    i-=1
