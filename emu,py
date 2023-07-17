@@ -1,0 +1,4 @@
+c = "Mayank"
+
+for index, c in enumerate(c, start=1):
+    print(index , c)

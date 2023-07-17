@@ -1,0 +1,11 @@
+import time
+
+timestamp = time.strftime("%H:%M:%S:%p")
+timestamp1 = "21:00:00:PM"
+print("Your currnt time is :- "+timestamp)
+if (timestamp < "12:00:00:PM"):
+    print("Good morning mayank")
+elif (timestamp > "20:00:00:PM"):
+    print("Good night mayank")
+elif (timestamp > "12:00:00:PM"):
+    print("Good afternoon mayank")
