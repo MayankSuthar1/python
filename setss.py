@@ -5,6 +5,6 @@ o = {"deko","sued","jhon","firw"}
 
 
 
-print(i)
+print(i.orderby()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           )
 
 print(i.union(o))
