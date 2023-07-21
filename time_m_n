@@ -1,11 +1,1 @@
-import time
-
-timestamp = time.strftime("%H:%M:%S:%p")
-timestamp1 = "21:00:00:PM"
-print("Your currnt time is :- "+timestamp)
-if (timestamp < "12:00:00:PM"):
-    print("Good morning mayank")
-elif (timestamp > "20:00:00:PM"):
-    print("Good night mayank")
-elif (timestamp > "12:00:00:PM"):
-    print("Good afternoon mayank")
+ff(f!=c and f!=temp1 and f!=temp2 and c!=f and c!=temp and c!=temp and temp!=f and temp!=c and temp!=temp2 and temp2!=f and temp12!=c and temp12!=temp1):
