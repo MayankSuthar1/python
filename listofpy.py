@@ -1,9 +1,8 @@
 n = ["suii","massi","maku","lassi"]
 
+n.append("makj")
 
-'''n.append("makj")
-
-for i  n:
-    print(i)'''
+for i  in n:
+    print(i)
 
 print(n[4-1])

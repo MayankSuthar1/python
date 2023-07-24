@@ -13,7 +13,7 @@ def find_pairs_with_sum(numbers, target_sum):
 
 if __name__ == "__main__":
     # Example usage:
-    given_list = [2, 4, 3, 1, 5, 6, 8, 7]
+    given_list = [1,2,3,4,5,6,7,8]
     target_sum = 9
 
     result = find_pairs_with_sum(given_list, target_sum)
